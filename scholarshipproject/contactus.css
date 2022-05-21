@@ -1,0 +1,50 @@
+input {
+    width: 30%;
+    height: 20px;
+}
+
+textarea,
+input {
+    font-size: 15px;
+    padding: 10px;
+    line-height: 20px;
+}
+
+::-webkit-outer-spin-button,
+::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+fieldset {
+    width: 50%;
+    margin-left: 150px;
+    background-color: rgb(216, 225, 233);
+}
+
+legend {
+    font-family: "Great Vibes";
+    font-size: 30px;
+}
+
+button {
+    width: 20%;
+    height: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+label {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+
+#clear {
+    margin-left: 380px;
+}
+contactUs.css
+Displaying contactUs.css.
